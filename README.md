@@ -1,4 +1,4 @@
-## Introduction
+## Energy Consumption Monitoring and Visualization
 
 With the increasing demand for sustainable energy solutions, optimizing household electricity consumption has become a crucial area of focus. This project leverages machine learning techniques to analyze and optimize electricity usage patterns in households. By predicting consumption trends and identifying potential areas for savings, this project aims to reduce energy costs and promote more efficient use of electricity.
 
