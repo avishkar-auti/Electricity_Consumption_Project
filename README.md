@@ -1,7 +1,18 @@
-# Optimizing Household Electricity through Data Science
- Optimizing Electricity consumption through Machine Learning to save electricity as well as reduce the electricity bill
- 
-Electra.AI is a simple dashboard developed using Dash and Plotly. It helps the consumer monitor their electricity consumption on a daily basis. Electra.AI also does a forecasting of the electricity, thus helping the consumer an estimation of his/her electricity bill. It can also send early warnings and automated emails with report to the user regarding excessive electricity consumption or when it detects a faulty device at home.
+## Introduction
+
+With the increasing demand for sustainable energy solutions, optimizing household electricity consumption has become a crucial area of focus. This project leverages machine learning techniques to analyze and optimize electricity usage patterns in households. By predicting consumption trends and identifying potential areas for savings, this project aims to reduce energy costs and promote more efficient use of electricity.
+
+This repository contains the complete workflow for this project, including data preprocessing, model training, and evaluation, as well as exploratory data analysis and visualization. The primary goal is to develop a model that can accurately forecast electricity consumption and provide actionable insights for optimizing energy usage.
+
+Key components of the project include:
+
+- **Data Preprocessing:** Cleaning and preparing the raw data for analysis.
+- **Model Training:** Implementing and training machine learning models to predict electricity consumption.
+- **Model Evaluation:** Assessing the performance of the models using various metrics.
+- **Exploratory Data Analysis (EDA):** Visualizing data to uncover patterns and trends.
+- **Fault Detection:** Using rolling Z-scores to identify faulty devices that consume abnormal amounts of electricity.
+
+This project is designed to be modular and scalable, allowing for easy integration of additional data sources and machine learning models. By providing a comprehensive approach to electricity consumption optimization, it offers valuable insights for both individual households and utility companies.
 
 ![Screenshot from 2023-07-07 00-46-57](https://github.com/debadridtt/Optimizing-Household-Electricity-through-Machine-Learning/assets/24243687/2e1c553e-44a3-4926-a645-3f42be1fee40)
 
